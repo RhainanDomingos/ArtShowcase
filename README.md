@@ -69,14 +69,14 @@ sudo gem install cocoapods
  
 🎥 Preview
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/30a313f1-b359-440c-b589-238601d45fc8" width="250" />
+  <img src="https://github.com/user-attachments/assets/20354635-8535-49ee-8db4-39940e3e4dda" width="250" />
+  <img src="https://github.com/user-attachments/assets/8408a00f-1717-4249-827c-69b86b2a6cbf" width="250" />
+  <img src="https://github.com/user-attachments/assets/28f62785-9b9c-47fd-8d46-1094f1109387" width="250" />
+</div>
 
 
-
-![GIF-2025-04-08-15-46-45](https://github.com/user-attachments/assets/2fee2e1c-61a0-4a60-8bfc-daea06448c04)
-![GIF-2025-04-08-15-47-08](https://github.com/user-attachments/assets/b035dcda-2fd9-4735-8af2-2a301ae552dd)
-![GIF-2025-04-08-15-47-43](https://github.com/user-attachments/assets/d9a1cde5-3587-45a1-be94-d4c1bda8611e)
-
-<img width="418" alt="Screenshot 2025-04-08 at 12 35 49 PM" src="https://github.com/user-attachments/assets/a7b9add1-0ce8-48ae-b734-71e8d9962e4d" /> <img width="418" alt="Screenshot 2025-04-08 at 12 33 42 PM" src="https://github.com/user-attachments/assets/cfb91add-f001-4a96-8c27-eaa5a7a2982b" /> <img width="418" alt="Screenshot 2025-04-08 at 12 35 05 PM" src="https://github.com/user-attachments/assets/97c4c404-c7b2-40ac-bac4-a5718a1cd2a0" /> <img width="418" alt="Screenshot 2025-04-08 at 12 35 19 PM" src="https://github.com/user-attachments/assets/167b238a-f36a-4201-97f3-a01c3fd1118d" />
 <br>
 ## 📝 License
 
