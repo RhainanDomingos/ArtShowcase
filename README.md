@@ -29,6 +29,14 @@ The goal of this project is to build a fully functional application that demonst
 
 ---
 
+### 💡 What I Learned
+
+This project helped me understand how to work with the MVVM pattern, how to use Alamofire to consume APIs, and how to handle asynchronous data with UIKit.
+
+One challenge was setting up the collection view layout correctly and managing dynamic image loading — it taught me a lot about organizing views efficiently.
+
+---
+
 ## 🧪 How to Run
 
 To run this project on your local machine:
