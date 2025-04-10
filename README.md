@@ -69,15 +69,27 @@ sudo gem install cocoapods
  
 🎥 Preview
 
-<div align="center">
+
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/dc11e80b-4aad-49cf-8f85-99273a75286c" width="250" />
+  <img src="https://github.com/user-attachments/assets/187d1b8e-9cc6-4a9b-8018-e2f0189ff28d" width="250" />
   <img src="https://github.com/user-attachments/assets/30a313f1-b359-440c-b589-238601d45fc8" width="250" />
-  <img src="https://github.com/user-attachments/assets/20354635-8535-49ee-8db4-39940e3e4dda" width="250" />
-  <img src="https://github.com/user-attachments/assets/8408a00f-1717-4249-827c-69b86b2a6cbf" width="250" />
+  <br/>
   <img src="https://github.com/user-attachments/assets/28f62785-9b9c-47fd-8d46-1094f1109387" width="250" />
+  <img src="https://github.com/user-attachments/assets/8408a00f-1717-4249-827c-69b86b2a6cbf" width="250" />
+  <img src="https://github.com/user-attachments/assets/20354635-8535-49ee-8db4-39940e3e4dda" width="250" />
 </div>
 
+---
 
-<br>
+## ℹ️ Observações
+
+> ⚠️ **Atenção:** este projeto utiliza um **Mock interno para simular dados da API**.  
+> Dependendo da versão do código ou de atualizações no Xcode, pode ser necessário **ajustar ou recriar os dados de mock** para que o app funcione corretamente.  
+> Caso encontre erros ao rodar o projeto, verifique os arquivos relacionados ao mock e certifique-se de que estão configurados corretamente.
+
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
