@@ -41,7 +41,7 @@ One challenge was setting up the collection view layout correctly and managing d
 
 To run this project on your local machine:
 
-1. **Clone the repository**
+**Clone the repository**
 ```bash
 git clone https://github.com/RhainanDomingos/ArtShowcase.git
 cd ArtShowcase
