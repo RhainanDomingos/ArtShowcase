@@ -16,7 +16,7 @@ protocol WalletServiceDelegate: GenericService {
 class WalletService: WalletServiceDelegate {
     
     func getWallet(completion: @escaping completion<WalletData?>) {
-        let url: String = "https://run.mocky.io/v3/91ba42d6-2e90-490f-87f0-c3a9b25d389b"
+        let url: String = "https://run.mocky.io/v3/a0aef839-924a-4458-881b-b5e6b3a24e5c"
         
         AF.request(url, method: .get).validate(statusCode: 200...299).responseDecodable(of: WalletData.self) { response in
           debugPrint(response)
