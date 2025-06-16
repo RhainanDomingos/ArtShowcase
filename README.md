@@ -1,4 +1,4 @@
-# 📱 Art Showcase
+# Art Showcase
 
 Art Showcase is an iOS app developed during a course at [BackFront Academy](https://backfront.academy) using **Swift** — primarily with **UIKit** and **ViewCode**.  
 It follows the **MVVM architectural pattern** and best development practices.  
@@ -7,18 +7,18 @@ The goal of this project is to build a fully functional application that demonst
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎨 Displays a curated list of art pieces using **UITableView**
-- 🖼️ Shows artwork details with custom layouts via **UICollectionView**
-- 🌐 Fetches data from a public API using **Alamofire**
-- 📱 Built entirely with **UIKit** and **ViewCode** (no Storyboards)
-- 🧠 Applies the **MVVM (Model-View-ViewModel)** architecture pattern
-- 📦 Organized and modular code structure for scalability and readability
+- Displays a curated list of art pieces using **UITableView**
+- Shows artwork details with custom layouts via **UICollectionView**
+- Fetches data from a public API using **Alamofire**
+- Built entirely with **UIKit** and **ViewCode** (no Storyboards)
+- Applies the **MVVM (Model-View-ViewModel)** architecture pattern
+- Organized and modular code structure for scalability and readability
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Swift** — Main programming language
 - **UIKit** — UI framework for building the app interface
@@ -29,7 +29,7 @@ The goal of this project is to build a fully functional application that demonst
 
 ---
 
-### 💡 What I Learned
+### What I Learned
 
 This project helped me understand how to work with the MVVM pattern, how to use Alamofire to consume APIs, and how to handle asynchronous data with UIKit.
 
@@ -37,7 +37,7 @@ One challenge was setting up the collection view layout correctly and managing d
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 To run this project on your local machine:
 
@@ -59,13 +59,13 @@ Select a simulator (e.g., iPhone 14)
 Press Cmd + R in Xcode
 
 
-📱 Requirements
+Requirements
 
 macOS with Xcode 14.0 or later
 iOS 15.0 or later
 CocoaPods installed
 sudo gem install cocoapods
-🗺️ Roadmap
+Roadmap
 
  Integrate with public art API
  Display artwork list and details
@@ -75,7 +75,7 @@ sudo gem install cocoapods
  Improve error handling and loading states
 
  
-🎥 Preview
+Preview
 
 
  <div align="center">
@@ -90,15 +90,15 @@ sudo gem install cocoapods
 
 ---
 
-## ℹ️ Notes
+## Notes
 
-> ⚠️ **Warning**  
+> **Warning**  
 > This project uses an internal mock to simulate API data.  
 > Depending on the code version or updates in Xcode, it might be necessary to adjust or recreate the mock data to make the app run properly.  
 > If you encounter any errors when running the project, check the mock-related files and ensure they are properly configured.
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
